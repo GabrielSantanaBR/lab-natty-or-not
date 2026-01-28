@@ -1,28 +1,17 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto DIO sobre IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um projeto submetido pela Digital Inovetion One sobre IA"s generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei a Runway para criar um video sobre abrir cartas pokemons
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Usdando um prompt simples, pedi para que gerasse um video de pokemom TCG sobre abirar cartas e mostrar uma carta especial no fim
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A IA não tem total entendimento do que se pede, mesmo detalhgando o que deve ser feito, ela ainda comoete erros que necessitam de um novo comando para concertar ou mudar certas decissoes de escolha feitas pela IA
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
